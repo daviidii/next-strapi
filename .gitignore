@@ -1,1 +1,17 @@
 node_modules
+_resources
+dist
+.env
+.DS_Store
+.vscode
+npm-debug.log
+yarn-error.log
+.idea
+*.log
+coverage
+*.local
+*.swp
+*.swo
+seed-data-tar.gz
+yarn.lock
+copy-env.mts
